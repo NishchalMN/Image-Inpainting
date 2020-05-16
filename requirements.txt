@@ -1,0 +1,6 @@
+tensorflow
+numpy
+cv2
+matplotlib.pyplot
+
+%tensorflow_version 1.15.2
